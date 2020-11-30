@@ -5,3 +5,6 @@ API desenvolvida sem o uso de Database, apenas para o aprendizado e familiariza�
 
 • Laravel
 • VueJS
+
+
+<h1>Intruções para rodar esta API.</h1>

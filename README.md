@@ -9,7 +9,7 @@ Tecnologias utilizadas:
     </ul>
 
 
-<h2>Intruções para rodar esta API:/h2>
+<h2>Intruções para rodar esta API:</h2>
 <ol>
     <li>git clone git@github.com:mathmendesdev/calculatorAPI.git </li>
     <li>cd calculatorAPI </li>

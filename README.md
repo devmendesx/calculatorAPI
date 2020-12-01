@@ -1,6 +1,11 @@
 <h1>Calculadora de Juros Compostos</h1>
 
-Technologies used:
+<h2>Required</h2>
+<ul>
+    <li><a href="https://nodejs.org/en/">NPM Node.js installed</a></li>
+    <li><a href="https://getcomposer.org/"> Composer Laravel</a></li> 
+</ul
+<h2>Technologies used:<h2>
 <ul>
     <li>Laravel</li>
     <li>Vue.js</li>

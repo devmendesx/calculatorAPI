@@ -4,13 +4,7 @@
 <ul>
     <li><a href="https://nodejs.org/en/">NPM Node.js</a></li>
     <li><a href="https://getcomposer.org/"> Composer Laravel</a></li> 
-</ul
-<h2>Technologies used:<h2>
-<ul>
-    <li>Laravel</li>
-    <li>Vue.js</li>
-    </ul>
-
+</ul>
 
 <h2>Instructions to set up this API:</h2>
 <ol>

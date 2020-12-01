@@ -1,4 +1,4 @@
-<h1>Calculadora de Juros Compostos</h1>
+<h1>Interest Calculator</h1>
 
 <h2>Required</h2>
 <ul>

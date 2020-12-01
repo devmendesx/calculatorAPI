@@ -2,7 +2,7 @@
 
 <h2>Required</h2>
 <ul>
-    <li><a href="https://nodejs.org/en/">NPM Node.js installed</a></li>
+    <li><a href="https://nodejs.org/en/">NPM Node.js</a></li>
     <li><a href="https://getcomposer.org/"> Composer Laravel</a></li> 
 </ul
 <h2>Technologies used:<h2>
